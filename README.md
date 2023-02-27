@@ -23,6 +23,7 @@ Desktop:
 ![Desktop design](design/desktop-design.jpg)
 
 Mobile:
+
 ![Mobile design](design/mobile-design.jpg)
 
 ### Screenshots
