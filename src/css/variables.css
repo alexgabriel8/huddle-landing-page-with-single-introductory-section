@@ -1,0 +1,7 @@
+:root {
+    --headers-and-btn-font: "Poppins", sans-serif;
+    --paragraphs-font: "Open Sans", sans-serif;
+
+    --primary-color-1: hsl(257, 40%, 49%);
+    --primary-color-2: hsl(300, 69%, 71%);
+}
